@@ -84,29 +84,12 @@ The Grocery Store App is a multi-user web application that allows users to brows
 - `setup_db.py`: Script to set up the database and create necessary tables
 - `README.md`: Project documentation and instructions
 
-## Contributing
-
-Contributions to the Grocery Store App are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please follow these steps:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your feature or bug fix.
-3. Make your changes in the new branch.
-4. Write tests to ensure the changes work as expected and maintain code quality.
-5. Commit your changes and push them to your forked repository.
-6. Submit a pull request to the main repository, describing your changes in detail.
-
-Please ensure that your code follows the project's coding conventions and style guidelines.
-
-## License
-
-The Grocery Store App is open-source software licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
 
-- Name: [Your Name]
-- Email: [your-email@example.com]
-- GitHub: 
+- Name: Rishabh Sharma
+- Email: rishabhsharma1600@gmail.com
+- GitHub: Rishabh-9947
 
-We appreciate your interest in the Grocery Store App and look forward to your contributions!
+I would appreciate your interest in the Grocery Store App and look forward to your contributions!
