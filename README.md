@@ -1,5 +1,4 @@
 # Grocery-Store-Application
-
 The Grocery Store App is a multi-user web application that allows users to browse and purchase grocery items from various sections. It provides an intuitive interface for users to explore products, add them to their shopping cart, and complete the checkout process. The app also includes an admin interface for managing sections and products.
 
 ## Features
